@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f1f5f8;
+}
+.headingStyle {
+  color: #2d3a35;
+  font-size: 21px;
+  font-family: roboto;
+}
+.paraStyle {
+  color: rgb(101, 92, 98);
+  font-size: 18px;
+  font-family: roboto;
+}
+.spanStyle {
+  color: #c20a72;
+}
+.buttonStyle{
+    background-color: #007bff;
+    border-radius: 20px;
+    border-width: 0px;
+    margin: 10px;
+    height: 35px;
+    width: 90px;
+
+}
